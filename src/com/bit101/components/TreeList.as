@@ -240,6 +240,8 @@ package com.bit101.components
 			
 			formatItems();
 			updateItems();
+			makeListItems();
+			fillItems();
 			
 			invalidate();
 		}

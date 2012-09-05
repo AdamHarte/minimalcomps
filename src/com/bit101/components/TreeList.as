@@ -199,7 +199,7 @@ package com.bit101.components
 		 */
 		protected override function onSelect(event:Event):void
 		{
-			if(!(event.target is ListItem)) return;
+			if(!(event.target is ListItem) || !event.target.data) return;
 			
 			super.onSelect(event);
 			

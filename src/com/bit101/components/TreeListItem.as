@@ -1,9 +1,9 @@
 /**
- * ListItem.as
- * Keith Peters
+ * TreeListItem.as
+ * Adam Harte
  * version 0.9.10
  * 
- * A single item in a list. 
+ * A single item in a tree list. 
  * 
  * Copyright (c) 2011 Keith Peters
  * 
